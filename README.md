@@ -9,4 +9,9 @@ V. Isualize has tasked you with a new challenge: to create a new dataframe and a
 ## Challenge Summary
 
 ### Key Metrics by City Type
+![challenge_summary.png](https://github.com/evanmgoodwin/PyBer_Analysis/blob/master/analysis/challenge_summary.png)
+
+
+
+### Weekly Average Fare by City Type
 ![ChallengeFig.png](https://github.com/evanmgoodwin/PyBer_Analysis/blob/master/analysis/ChallengeFig.png)
