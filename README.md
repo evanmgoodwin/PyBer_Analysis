@@ -16,4 +16,4 @@ As we can see in the Key Metrics table above, there is an inverse correlation be
 ### Weekly Average Fare by City Type
 ![ChallengeFig.png](https://github.com/evanmgoodwin/PyBer_Analysis/blob/master/analysis/ChallengeFig.png)
 
-
+Looking at the above graph, we can see that weekly fare totals were generally consistent over the four-month time frame, with the exception of some spikes. Towards the end of February, for example, there was an increase in total fares across all city types. The urban cities had the largest variance of all types. That being said, urban cities are still by far the most profitable, with their lowest weekly fare total being greater than the highest weekly fare total of suburban cities. The suburban cities appear to be on an upward trend moving into May, though this might be another instance of a spike in total fares, and might very well decrease by the end of the month. A dataset covering a larger period of time, from January to December, is recommended for a more thorough anaylsis. A larger dataset would help in determining the upward and downward trend of all city types, and would be useful for forecasting the total fares for 2020.
